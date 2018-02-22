@@ -19,7 +19,7 @@
         android:layout_centerVertical="false"
         android:text="@string/title"
         android:textColor="#FFFFFF"
-        android:textSize="40sp" />
+        android:textSize="41sp" />
 
     <ImageView
         android:id="@+id/imageView"
